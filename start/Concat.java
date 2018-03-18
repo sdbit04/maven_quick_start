@@ -1,4 +1,4 @@
-
+package create.sql.concatinator
 public class Concat {
 public static void main (String args [] )
 {
