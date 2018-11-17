@@ -1,2 +1,2 @@
-# maven_quick_start
-learning maven to build a project 
+# maven sample project
+maven to build a project 
